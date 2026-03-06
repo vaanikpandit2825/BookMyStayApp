@@ -6,8 +6,7 @@ Description:This class demonstrates a welcome page that welcomes the user ans sh
 @author:vaanikpandit2825
 @version:1.0
  */
-public class WelcomeScreenn {
-    public static void main(String args[]) {
+public class WelcomeScreenn {   public static void main(String args[]) {
         System.out.println("============================================================");
         System.out.println("Welcome To The Hotel Booking Management System");
         System.out.println("System Initialized Successfully");
