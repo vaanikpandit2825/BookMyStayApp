@@ -14,7 +14,7 @@ specific room types.
 Room objects are created when the application runs, and their availability is stored using simple
 variables. The program then displays the room details along with their availability in the console.
 
-@author SAKET-2005
+@author vaanikpandit2825
 @version 2.0
 ================================================================================================================
 */
@@ -103,7 +103,7 @@ public class BookMyStayApp
     {
         System.out.println("Welcome to Hotel Booking Management System!");
         System.out.println("Version: 2.0");
-        System.out.println("Author: SAKET-2005");
+        System.out.println("Author: vaanikpandit2825");
         System.out.println();
 
         Room single=new SingleRoom();
